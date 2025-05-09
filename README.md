@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./LoginPage.png" alt="Login Page Screenshot" width="800"/>
+</p>
+
 # 🎯 CareerMate AI – AI-Powered Career Mentoring Platform
 
 CareerMate AI is a smart career assistant platform designed for students and alumni. It leverages AI to provide personalized career roadmaps, resume analysis, alumni networking, and profile management — all through a clean and interactive Streamlit interface.
