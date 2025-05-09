@@ -40,4 +40,83 @@ CareerMate AI is a smart career assistant platform designed for students and alu
 ---
 
 ## 📁 Project Folder Structure
+Career-Agent-AI/
+├── ai_modules/ # AI interaction helpers (OpenAI, BitNet, etc.)
+│ |---llm.helper.py(You can use any LLM)
+│ └── 
+│ └── resume_prompt.py
+│
+├── data/ # Data files
+│ └── alumni_db.csv # Alumni details
+│ └── profiles/ # Saved student profiles (JSON)
+│
+├── src/ # Core application logic
+│ └── Authentication.py # Login logic
+│ └── job_dashboard.py # Career roadmap
+│ └── resume_analyzer.py # Resume analysis logic
+│ └── alumni_search.py # Alumni search logic
+│ └── ProfileManagement.py # Student profile edit/save
+│
+├── style.css # Custom CSS for UI styling
+├── streamlit_app.py # 🔥 Main Streamlit app entry point
+├── requirements.txt # Python dependencies
+└── README.md # This file
+---
+
+## ⚙️ How to Run the App Locally
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/kabilkforge06/Career-Agent-AI.git
+cd Career-Agent-AI
+###
+2. Install Dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt
+3. Run the Streamlit App
+bash
+Copy
+Edit
+streamlit run streamlit_app.py
+🧠 Future Enhancements
+🔐 Firebase or Supabase authentication & cloud resume storage
+
+🧭 Smart job recommendations based on profile insights
+
+🎓 Alumni mentorship matchmaking system
+
+📊 Admin dashboard to manage student/alumni data
+
+🌐 Multilingual support (Tamil + English)
+
+📸 Screenshots (optional)
+(You can add screenshots or demo GIFs here once ready)
+Drag .png or .gif into the README or embed like:
+![CareerMate Dashboard](images/dashboard_screenshot.png)
+
+👨‍💻 Developed By
+Kabilan Murali
+2nd Year IT Student
+Kongunadu College of Engineering and Technology
+
+📌 GitHub
+🔗 LinkedIn
+
+“Empowering every student with AI-driven career clarity.”
+— CareerMate AI
+
+
+
+
+
+
+
+
+
+
+
+
 
