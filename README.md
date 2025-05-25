@@ -80,7 +80,7 @@ Kabilan Murali
 2nd Year IT Student
 Kongunadu College of Engineering and Technology
 
-🔗 Visit (www.linkedin.com/in/kabilan-m-031ab732b)
+🔗 Visit (www.linkedin.com/in/kabilkforge06)
 
 “Empowering every student with AI-driven career clarity.” — CareerMate AI
 
