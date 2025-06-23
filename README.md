@@ -49,6 +49,8 @@ CareerMate AI is a smart career assistant platform designed for students and alu
 
 ### 1. Clone the Repository
 
+
+
 ```bash
 git clone https://github.com/kabilkforge06/Career-Agent-AI.git
 cd Career-Agent-AI
@@ -58,6 +60,8 @@ pip install -r requirements.txt
 ###
 3. Run the Streamlit App
 streamlit run streamlit_app.py
+
+
 
 🧠 Future Enhancements
 🔐 Firebase or Supabase authentication & cloud resume storage
@@ -70,15 +74,24 @@ streamlit run streamlit_app.py
 
 🌐 Multilingual support (Tamil + English)
 
+
+
 📸 Screenshots (optional)
 (You can add screenshots or demo GIFs here once ready)
 Drag .png or .gif into the README or embed like:
 ![CareerMate Dashboard](images/dashboard_screenshot.png)
 
+
+
+
 👨‍💻 Developed By
 Kabilan Murali
-2nd Year IT Student
+3rd Year IT Student
 Kongunadu College of Engineering and Technology
+
+
+
+
 
 🔗 Visit (www.linkedin.com/in/kabilkforge06)
 
