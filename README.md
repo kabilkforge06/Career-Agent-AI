@@ -50,8 +50,6 @@ CareerMate AI is a smart career assistant platform designed for students and alu
 ### 1. Clone the Repository
 
 
-
-```bash
 git clone https://github.com/kabilkforge06/Career-Agent-AI.git
 cd Career-Agent-AI
 ###
