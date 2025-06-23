@@ -75,13 +75,10 @@ streamlit run streamlit_app.py
 🌐 Multilingual support (Tamil + English)
 
 
-
 📸 Screenshots (optional)
 (You can add screenshots or demo GIFs here once ready)
 Drag .png or .gif into the README or embed like:
 ![CareerMate Dashboard](images/dashboard_screenshot.png)
-
-
 
 
 👨‍💻 Developed By
@@ -90,22 +87,6 @@ Kabilan Murali
 Kongunadu College of Engineering and Technology
 
 
-
-
-
 🔗 Visit (www.linkedin.com/in/kabilkforge06)
 
 “Empowering every student with AI-driven career clarity.” — CareerMate AI
-
-
-
-
-
-
-
-
-
-
-
-
-
