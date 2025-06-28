@@ -73,12 +73,6 @@ streamlit run streamlit_app.py
 🌐 Multilingual support (Tamil + English)
 
 
-📸 Screenshots (optional)
-(You can add screenshots or demo GIFs here once ready)
-Drag .png or .gif into the README or embed like:
-![CareerMate Dashboard](images/dashboard_screenshot.png)
-
-
 👨‍💻 Developed By
 Kabilan Murali
 3rd Year IT Student
